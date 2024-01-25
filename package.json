@@ -1,0 +1,19 @@
+{
+  "name": "learn2",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shivam",
+    "saner"
+  ],
+  "author": "shivam saner",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.2"
+  }
+}
